@@ -42,7 +42,7 @@ Agora você pode acessar todas as colunas da tabela como campos nos seus relató
 https://support.google.com/datastudio/answer/7288010?hl=pt-BR#zippy=%2Cneste-artigo
 
 # Para reprocessar e salvar os arquivos em uma outra data nas subpastas 
-basta inserir a data desejada em:
+Basta inserir a data desejada em:
 
 ano = '2021' <br>
 mes = '09' <br>
