@@ -1,7 +1,7 @@
 # Pipeline-de-dados-para-uma-ferramenta-de-Business-Intelligency
 Extração de dados de dois bancos de dados, sendo um no formato .csv e o outros em postgres, e salvos no disco local na data atual. Criação de um novo arquivo de dados a partir daquelas fontes e enviado para um banco de dados Postgres na nuvem. Após isso, integrar este novo arquivo com um dashboard no Google Data Studio.
 
-![image psd (3)](https://user-images.githubusercontent.com/71424123/131224466-40a087c9-b5b2-4d4a-ae0b-cab64cf95866.png)
+![image psd (7)](https://user-images.githubusercontent.com/71424123/131224567-bc69fba7-981e-4dc7-8dbc-b3bb004fa45f.png)
 
 # Fontes de Dados
 O arquivo northwind.sql está no localhost e o arquivo order_details.csv no google sheets (link da planilha: https://cutt.ly/DWpS1Vs).
