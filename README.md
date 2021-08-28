@@ -1,5 +1,5 @@
-# Pipeline-de-dados-para-uma-ferramenta-de-Business-Intelligence
-Extração de dados de dois bancos de dados, sendo um no formato .csv e o outros em postgres, e salvos no disco local na data atual. Criação de um novo arquivo de dados a partir daquelas fontes (adicionado detalhes (.csv) na tabela pedidos (.sql)) e enviado para um banco de dados Postgres na nuvem. Após isso, integrar este novo arquivo com um dashboard no Google Data Studio.
+# Pipeline de Dados para uma Ferramenta de Business Intelligence
+Extração de dados de dois bancos de dados, sendo um no formato .csv e os outros em postgres, e salvos no disco local na data atual. Criação de um novo arquivo de dados a partir daquelas fontes (adicionado detalhes (.csv) na tabela pedidos (.sql)) e enviado para um banco de dados Postgres na nuvem. Após isso, integrar este novo arquivo com um dashboard no Google Data Studio.
 
 ![image psd (7)](https://user-images.githubusercontent.com/71424123/131224567-bc69fba7-981e-4dc7-8dbc-b3bb004fa45f.png)
 
